@@ -1,0 +1,8 @@
+{
+  "name": "github_flavored_markdown",
+  "version": "1.0.1",
+  "description": "The port of Showdown used on github.com",
+  "author": "",
+  "main": "./scripts/showdown.js",
+  "repository": "http://github.com/drylikov/github_flavored_markdown"
+}
